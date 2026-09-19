@@ -3,9 +3,20 @@
   <em>IT Student | Building, learning, and experimenting with software.</em>
 </p>
 
+<!-- Animated Pixel Ninja Coder Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/animated-text.gif" alt="Prit Panchal" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pritpanchal17&label=Profile%20Views&color=6366f1&style=flat-square" alt="pritpanchal17 profile views" />
   <img src="https://img.shields.io/badge/Status-Exploring%20%26%20Building-6366f1?style=flat-square&logo=github" alt="Status" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nana1-dev/nana1-dev/master/assets/ninja.gif" width="180" alt="Coding Ninja Animation" />
 </p>
 
 ---
